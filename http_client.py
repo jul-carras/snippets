@@ -11,7 +11,7 @@ payload = {"form_submission": {
                                "landing_page_url": "missingmonuments.com/info",
                                "form_url": "missingmonuments.com/report/new",
                                "form_data": {
-                                             "phone_number": "{phone}",
+                                             "phone_number": phone,
                                              "report": "Carmen stole the Liberty Bell.",
                                              "last_sighting": "Near Washington D.C."
                                             }
