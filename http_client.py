@@ -22,6 +22,6 @@ headers = {
   'Content-Type': 'application/json',
   'Cookie': cookie_key
 }
-conn.request("POST", "/v3/a/ACC1f1e633474304b16b41941a520b5432a/form_submissions.json", json.dumps(payload), json.dumps(headers))
+conn.request("POST", "sub_key/form_submissions.json", json.dumps(payload), json.dumps(headers))
 res = conn.getresponse()
 data = res.read()
