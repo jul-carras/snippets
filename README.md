@@ -3,6 +3,8 @@ this and that
 
 ## Useful Links
 
+[Oh snap git](https://ohshitgit.com/)
+
 ### STATISTICS
 
 * [AUC for more than 2 classes](http://homepage.tudelft.nl/a9p19/papers/prasa_06_vuc.pdf)
