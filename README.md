@@ -3,8 +3,8 @@ this and that
 
 ## Useful Links
 
-[Oh snap git](https://ohshitgit.com/)
-[Learn Git Branching](https://learngitbranching.js.org/)
+* [Oh snap git](https://ohshitgit.com/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### STATISTICS
 
@@ -26,13 +26,21 @@ this and that
 >**Ridge** uses **L2** penalty term which limits the size of the coefficient vector. *Lasso* uses *L1* penalty which imposes sparsity among the coefficients and thus, makes the fitted model more interpretable. Elasticnet is introduced as a compromise between these two techniques, and has a penalty which is a mix of L1 and L2 norms.
 
 * [Statistical learning and selective inference](https://www.pnas.org/content/pnas/112/25/7629.full.pdf)
-
 * [Difference Between Penalized Regression in `glmnet` and `scikit-learn`](https://stats.stackexchange.com/questions/160096/what-are-the-differences-between-ridge-regression-using-rs-glmnet-and-pythons)
-
 * [Causal Inference Book - Miguel Hernan](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/01/ciwhatif_hernanrobins_31dec20.pdf)
+* [The Relationship Between Precision-Recall & ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf)
+* [ROC Curve](https://towardsdatascience.com/the-roc-curve-unveiled-81296e1577b)
+* [Gain & Lift Charts](https://www.listendata.com/2014/08/excel-template-gain-and-lift-charts.html)
+* [Thresholding for Classifications](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
 
 ### ENGINEERING
 
+* [Using Make to automate workflows](https://bost.ocks.org/mike/make/)
+* [Setting Environment Variables in Jupyter Lab](https://stackoverflow.com/questions/37890898/how-to-set-env-variable-in-jupyter-notebook)
+* [Using `pip` within `conda` environment](https://stackoverflow.com/questions/41060382/using-pip-to-install-packages-to-anaconda-environment/44066694)
+* [Dual Axes in `ggplot`](https://www.r-graph-gallery.com/line-chart-dual-Y-axis-ggplot2.html)
+* [PyTorch Video Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+* [Python Decorators](https://realpython.com/primer-on-python-decorators/)
 * [Creating Your Own Estimator](https://danielhnyk.cz/creating-your-own-estimator-scikit-learn/)
 * [kubeflow pipeline SDK docs](https://kubeflow-pipelines.readthedocs.io/en/stable/)
 * [Lak Lakschmanan's Blog](https://lakshmanok.medium.com/)
