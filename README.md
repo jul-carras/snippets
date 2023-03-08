@@ -6,6 +6,10 @@ this and that
 * [Oh snap git](https://ohshitgit.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
+### PYTHON
+
+* [2023-02-17: Pandas is going to 2.0](https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i)
+    
 ### STATISTICS
 
 * [AUC for more than 2 classes](http://homepage.tudelft.nl/a9p19/papers/prasa_06_vuc.pdf)
