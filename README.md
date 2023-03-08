@@ -9,6 +9,7 @@ this and that
 ### PYTHON
 
 * [2023-02-17: Pandas is going to 2.0](https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i)
+* [2014-05-09: Why Python is Slow](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
     
 ### STATISTICS
 
