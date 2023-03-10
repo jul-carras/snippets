@@ -13,7 +13,7 @@ this and that
     
 ### STATISTICS
 
-* [Transformer Math 101](https://eleutherai.notion.site/Transformers-Math-101-d2fcfc7a25d446388fde97821ad2412a)
+* [How to avoid machine learning pitfalls:a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
 * [AUC for more than 2 classes](http://homepage.tudelft.nl/a9p19/papers/prasa_06_vuc.pdf)
 * [What is CV measuring?](http://statweb.stanford.edu/~tibs/ftp/NCV.pdf)
 * [Uplift](https://medium.datadriveninvestor.com/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2)
