@@ -13,10 +13,10 @@ this and that
     
 ### STATISTICS
 
-* [How to avoid machine learning pitfalls:a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
+* [Implementing Permutation Feature Importance](https://mindfulmodeler.substack.com/p/how-to-implement-permutation-feature)
+    * [And why correlated features can ruin them](https://mindfulmodeler.substack.com/p/correlation-can-ruin-interpretability)     
 * [AUC for more than 2 classes](http://homepage.tudelft.nl/a9p19/papers/prasa_06_vuc.pdf)
 * [What is CV measuring?](http://statweb.stanford.edu/~tibs/ftp/NCV.pdf)
-* [Uplift](https://medium.datadriveninvestor.com/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2)
 * [Handling Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 * [SMOTE - Synthetic Minority Oversampling Technique](https://rikunert.com/SMOTE_explained)
 * [Shapley Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
