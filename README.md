@@ -5,6 +5,8 @@ this and that
 
 * [Oh snap git](https://ohshitgit.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
+* [Jim Savage's Zen of Modeling](https://modernstatisticalworkflow.blogspot.com/2016/08/my-zen-of-modeling.html)
+
 
 ### PYTHON
 
