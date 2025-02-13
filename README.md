@@ -6,6 +6,7 @@ this and that
 * [Oh snap git](https://ohshitgit.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Jim Savage's Zen of Modeling](https://modernstatisticalworkflow.blogspot.com/2016/08/my-zen-of-modeling.html)
+* [Renaming Git branches](https://stackoverflow.com/questions/30590083/git-how-to-rename-a-branch-both-local-and-remote)
 
 
 ### PYTHON
