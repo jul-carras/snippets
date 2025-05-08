@@ -16,6 +16,7 @@ this and that
     
 ### STATISTICS
 
+* [Randomization Inference vs Bootstrapping p-values](https://jasonkerwin.com/nonparibus/2017/09/25/randomization-inference-vs-bootstrapping-p-values/)
 * [Implementing Permutation Feature Importance](https://mindfulmodeler.substack.com/p/how-to-implement-permutation-feature)
     * [And why correlated features can ruin them](https://mindfulmodeler.substack.com/p/correlation-can-ruin-interpretability)     
 * [AUC for more than 2 classes](http://homepage.tudelft.nl/a9p19/papers/prasa_06_vuc.pdf)
